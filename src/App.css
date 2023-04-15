@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+input[type="submit"]{
+  background-color: lightgreen;
+  padding: 0px 20px 0px 20px;
+}
+
+button{
+  background-color: red;
+  color: white;
+  border-radius: 20px;
+}
