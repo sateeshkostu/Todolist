@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  margin-top: 50px;
+}
+
+.app {
+  background-color: #042d41;
+  text-align: center;
+  padding-top: 150px;
+ 
 }
 
 .App-logo {
@@ -36,6 +44,7 @@
     transform: rotate(360deg);
   }
 }
+
 input[type="submit"]{
   background-color: lightgreen;
   padding: 0px 20px 0px 20px;
@@ -46,3 +55,34 @@ button{
   color: white;
   border-radius: 20px;
 }
+.card{
+  width: 700px;
+  /* height: 1000px; */
+  /* background-color: black; */
+}
+.cardbody{
+  background-color: gray;
+}
+.order{
+  display: block;
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
+.order div{
+  margin-bottom: 10px;
+}
+.order button{
+  justify-content: space-between;
+}
+table{
+  justify-content: space-between;
+}
+.cards{
+  background-color: white;
+  /* border-radius: 10px; */
+  /* justify-content: space-between; */
+  
+}
+
+  
+
